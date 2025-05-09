@@ -4,7 +4,7 @@
 **arunroy25/arunroy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently learning on ASP.NET.
+- 🔭 I’m currently learning ASP.NET.
 - 🌱 Worked on ReactJs, MySQL, ExpressJs, NodeJs, PHP.
 - 💬 Ask me about ReactJs,  NodeJs, VueJs, PHP, Laravel and Any Tech Realated Stuff
 - 🔬 I also work on research projects utilizing machine learning and deep learning.

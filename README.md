@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👨‍💻 I'm currently working as a JnU-Emerging Data Science Lab (JnU-EDSL) 
+- 👨‍💻 I'm currently working as a JnU-Emerging Data Science Lab (JnU-EDSL). 
 - 🔭 I’m currently learning ASP.NET.
 - 🌱 Worked on ReactJs, MySQL, ExpressJs, NodeJs.
 - 💬 Ask me about ReactJs,  NodeJs, VueJs, and Any Tech Realated Stuff
